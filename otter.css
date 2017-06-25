@@ -1,0 +1,8 @@
+body {
+    background-image:url("https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/63/631/631574/hrkvrgjqkpznp98qksf878hl0xodcawzjqcvfgreo1w1wuhd4ii55f558nrjiffw-f.jpg?1441033756");
+    background-size: 1400px 650px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 2.0;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}

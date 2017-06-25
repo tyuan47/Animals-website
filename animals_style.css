@@ -1,0 +1,13 @@
+body {
+    font-size:15px;
+    color:black;
+    font-family:Avenir;
+    background-color: aliceblue
+}
+.img-circle {
+    border-radius: 50%;
+}
+.floated_img
+{
+    float: left;
+}

@@ -1,0 +1,8 @@
+body {
+    background-image:url("https://paul4innovating.files.wordpress.com/2014/01/tropical-rainforest-1.png");
+    background-size: 1400px 650px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 2.0;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}

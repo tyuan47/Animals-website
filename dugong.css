@@ -1,0 +1,8 @@
+body {
+    background-image:url("http://ocean.si.edu/sites/default/files/styles/colorbox_full_width/public/photos/ChristofferBostrom_Zosteramarina_Finland.jpg?itok=00TCJ5Up");
+    font-family:Avenir;
+    background-size: 1400px 650px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-blend-mode: difference
+}
